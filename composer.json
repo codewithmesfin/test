@@ -1,0 +1,14 @@
+{
+    "name": "phpsandbox/interactive",
+    "description": "Official scaffold for Interactive notebooks on PHPSandbox",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olatunbosun Egberinde",
+            "email": "bosunski@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
